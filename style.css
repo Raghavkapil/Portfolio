@@ -439,8 +439,8 @@ footer ul li a{
 
 .tech-stack h2 {
     font-size: 4rem;
-   margin: 3rem;
-   margin-bottom: 5rem;
+   margin-top: 6rem;
+   margin-bottom: 3rem;
    color: var(--text-color);
 }
 
